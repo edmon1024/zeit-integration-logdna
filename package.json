@@ -1,0 +1,9 @@
+{
+  "name": "datadog-integration",
+  "dependencies": {
+    "@zeit/integration-utils": "0.4.0",
+    "logdna": "^3.0.2",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
